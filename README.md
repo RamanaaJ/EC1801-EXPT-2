@@ -71,14 +71,7 @@ endmodule
     end
 
 endmodule
-```
-
-
-
-
-
-
- 
+``` 
 <img width="940" height="318" alt="image" src="https://github.com/user-attachments/assets/8a343bdb-ffb4-4aac-8b88-cf59eca374a8" />
 
 # Simulation Procedure
